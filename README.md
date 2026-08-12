@@ -466,5 +466,6 @@ This project demonstrates an important principle of data analytics:
 The CoffyMix analysis shows how transaction data can be transformed into a management-level view of:
 
 **Performance → Customers → Products → Operations → Profitability → Action**
+---
 
 
