@@ -134,6 +134,7 @@ This creates an opportunity to investigate what makes Lagos successful and deter
 ## Customer Analytics
 
 The customer analysis provides insight into customer size, spending, purchasing frequency, demographics, and retention.
+![Customer Insight](http://github.com/Dumoteyim/CoffyMix-Performance-Report/blob/main/Customer%20Insights.png)
 
 ### Key Customer Metrics
 
