@@ -1,6 +1,6 @@
 # CoffyMix Sales Performance Analytics
 
-![CoffyMix Sales Dashboard](./assets/coffymix-dashboard.png)
+![CoffyMix Sales Dashboard](https://github.com/Dumoteyim/CoffyMix-Performance-Report/blob/main/Executive%20Overview.png)
 
 ## Project Overview
 
