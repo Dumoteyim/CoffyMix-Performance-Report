@@ -96,6 +96,8 @@ The analysis evaluates revenue contribution across product categories.
 | Cold Drinks | 26.03% |
 | Tea | 14.80% |
 
+![Product Details](https://github.com/Dumoteyim/CoffyMix-Performance-Report/blob/main/Product%20Details.png)
+
 ### Top Products
 
 | Rank | Product | Approx. Revenue |
